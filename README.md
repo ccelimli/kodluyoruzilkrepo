@@ -6,13 +6,13 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 ## Installation
 
-Öncelikle projeyi colene'layın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clone'layın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-```
 
-git clone https://github.com/ccelimli/kodluyoruzilkrepo.git
 
-```
+> git clone https://github.com/ccelimli/kodluyoruzilkrepo.git
+
+
 
 ## Usage
 
